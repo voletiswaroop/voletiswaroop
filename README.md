@@ -6,6 +6,6 @@
 
 - 👯 I’m looking to collaborate on any Javascript or ReactJs projects
 
-- 📫 How to reach me: http://swaroopvoleti.me/
+- 📫 How to reach me: https://voletiswaroop.github.io/
 
-- ⚡ Fun fact: I like to play with Javascript and ReactJs
+- ⚡ Fun fact: I like to play with Javascript & ReactJs
