@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: I like to play with Javascript & ReactJs
 
-## Im Proficient at
+<!-- ## Im Proficient at -->
 
 <!-- #### <p align="center"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/react.png" alt="react"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/js.png" alt="js"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/html.png" alt="html/css"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/bootstrap.png" alt="bootstrap"> </p><p align="center> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/github.png" alt="github"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/adobe-analytics.png" alt="adobe-analytics"> <img src="https://github.com/voletiswaroop/voletiswaroop/blob/develop/assets/browserstack.png" alt="browserstack"></p> -->
 
