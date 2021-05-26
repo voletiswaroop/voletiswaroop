@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Swaroop Gupta Voleti
+# <p align="center"> [![Namaste from Swaroop](https://img.shields.io/badge/Namaste%20from%20Swaroop%20Voleti-black?&style=for-the-badge)]() </p>
 
 - 🌱 I’m currently learning ReactJs indepth.
 
@@ -6,12 +6,19 @@
 
 - 👯 I’m looking to collaborate on any Javascript or ReactJs projects
 
-- 📫 How to reach me: https://voletiswaroop.github.io/
+- 📫 Portfolio: https://voletiswaroop.github.io/
 
 - ⚡ Fun fact: I like to play with Javascript & ReactJs
 
-## PROFILE STATS
+## Im Proficient at
+
+#### <p align="center"> <img src="" alt="react"> <img src="" alt="js"> <img src="" alt="html/css"> <img src="" alt="bootstrap"> </p><p> <img src="" alt="github"> <img src="" alt="adobe-analytics"> <img src="" alt="browserstack"></p>
+
+# [![My GitHub PROFILE Stats](https://img.shields.io/badge/my%20github%20stats-black?&style=for-the-badge)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=voletiswaroop&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=voletiswaroop&langs_count=5&theme=tokyonight)]()
 
+#
+
+#### <p align="center"> [![Profile count](https://komarev.com/ghpvc/?username=voletiswaroop)]() </p>
